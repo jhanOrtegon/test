@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "@types/mysql": "^2.15.21",
     "@types/node": "18.16.3",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
     "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.4",
     "next": "13.3.4",
     "postcss": "8.4.23",
     "react": "18.2.0",
